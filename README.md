@@ -1,10 +1,8 @@
 ## Sobre mim
 
 - 🎓 Estudando de Ciência da Computação pela Unifacs.
-- 💻 Cyber segurança, desenvolvimento e IA são áreas que estimulam minha curiosidade.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre programação e suas.
-- 📚 Estou me dedicando para desenvolvimento de web site, porém, planejo expandir para as mais variadas áreas
+- 💻 Em um futuro distante, desejo trabalhar com cyberseguraça.
+- 🌱 Me esforçando para ser um dos melhores na área de desenvolvimento.
 
 ## Minhas Skills
 
@@ -25,6 +23,4 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-
-## Onde me encontrar
 
