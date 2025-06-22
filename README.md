@@ -1,4 +1,4 @@
-#  <img src="https://github.com/user-attachments/assets/6d68e278-1eb5-4802-86cf-64d38eb020b5" alt="Descrição" width="25"> Welcome
+#  <img src="https://github.com/user-attachments/assets/645a2bad-8a5c-4865-9aeb-5d70c1b2116b" alt="Descrição" width="40"> Welcome
 
 
 
